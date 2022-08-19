@@ -1,1 +1,1 @@
-[Image of an apple] (https://pngimg.com/image/12403)
+![Image of an apple](https://pngimg.com/image/12403)
